@@ -3,19 +3,19 @@
 ## Curriculum:
 
 
-### General
- - [ ] 1. [Git Basics](#git-basics)
+#### General
+ - [x] 1. [Git Basics](#git-basics)
  - [ ] 2. [Linux CLI and Networking](#linux-cli-and-http)
  - [ ] 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
-### Front-End Basics
+#### Front-End Basics
  - [ ] 4. [Intro to HTML & CSS](#intro-to-html-and-css)
  - [ ] 5. [Responsive Web Design](#responsive-web-design)
  - [ ] 6. [HTML & CSS Practice](#html-&-css)
  - [ ] 7. [JavaScript Basics](#javascript-basics)
  - [ ] 8. [Document Object Model](#document-object-model) 
 
-### Advanced Topics
+#### Advanced Topics
  - [ ] 9. [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world) 
  - [ ] 10. [Object oriented JS](#object-oriented-js) 
  - [ ] 11. [OOP exercise](#oop-exercise) 
@@ -24,3 +24,35 @@
 - [ ] 14. [Website Performance Optimization](#website-performance-optimization)
 - [ ] 15. [Friends App](#friends-app) 
 
+---
+
+## General
+
+---
+
+### Git Basics
+
+ #### Version Control with Git
+ The Udacity allows you learn basic knowledge and understanding how git works, and i think it course was usefull for me. Before this course i didn't know how git works, but now, its clear for me. 
+ 
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](https://i.imgur.com/EaAv7CR.png)
+</p>
+</details>
+
+#### Learn Git branching interactive course
+
+This was interesting for me
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](https://i.imgur.com/bYCwQKX.png)
+</p>
+</details>
+
+#### Summary
+
+I understood how git is working and how i can use it.
