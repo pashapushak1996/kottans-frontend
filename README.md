@@ -66,30 +66,34 @@ Almost all of this commands i know and as for me there is nothing new.
 <details><summary>Screenshot-1</summary>
 <p>
 
-![Screenshot-image-link](task_linux_cli/quiz-1.jpg)
+![Screenshot-image-link](task_linux_cli/quiz-1.png)
 </p>
 </details>
 
 <details><summary>Screenshot-2</summary>
 <p>
 
-![Screenshot-image-link](task_linux_cli/quiz-1.jpg)
+![Screenshot-image-link](task_linux_cli/quiz-2.png)
 </p>
 </details>
 
 <details><summary>Screenshot-3</summary>
 <p>
 
-![Screenshot-image-link](task_linux_cli/quiz-1.jpg)
+![Screenshot-image-link](task_linux_cli/quiz-3.png)
 </p>
 </details>
 
 <details><summary>Screenshot-4</summary>
 <p>
 
-![Screenshot-image-link](task_linux_cli/quiz-1.jpg)
+![Screenshot-image-link](task_linux_cli/quiz-4.png)
 </p>
 </details>
+
+#### Articles about HTTP
+
+Two articles was very interesting for me and now it's clear, how occur interaction between client and server.
 
 
 
