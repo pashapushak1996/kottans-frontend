@@ -95,5 +95,33 @@ Almost all of this commands i know and as for me there is nothing new.
 
 Two articles was very interesting for me and now it's clear, how occur interaction between client and server.
 
+### Git Collaboration
 
+#### Udacity course
+
+As for me this was exited course. Now I know how to interact with team.
+
+<details><summary>Udacity screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/github-udacity.png)
+</p>
+</details>
+
+#### Learn git branching
+It was difficult, and I think there are things which I will never use.
+
+<details><summary>Ramping Up</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/git-collab-1.png)
+</p>
+</details>
+
+<details><summary>To Origin And Beyond</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/git-collab-2.png)
+</p>
+</details>
 
