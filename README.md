@@ -5,11 +5,11 @@
 
 #### General
  - [x] 1. [Git Basics](#git-basics)
- - [ ] 2. [Linux CLI and Networking](#linux-cli-and-http)
- - [ ] 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+ - [x] 2. [Linux CLI and Networking](#linux-cli-and-http)
+ - [x] 3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 #### Front-End Basics
- - [ ] 4. [Intro to HTML & CSS](#intro-to-html-and-css)
+ - [x] 4. [Intro to HTML & CSS](#intro-to-html-and-css)
  - [ ] 5. [Responsive Web Design](#responsive-web-design)
  - [ ] 6. [HTML & CSS Practice](#html-&-css)
  - [ ] 7. [JavaScript Basics](#javascript-basics)
@@ -33,7 +33,7 @@
 ### Git Basics
 
  #### Version Control with Git
- The Udacity allows you learn basic knowledge and understanding how git works, and i think it course was usefull for me. Before this course i didn't know how git works, but now, its clear for me. 
+ The Udacity allows you to learn basic knowledge and understanding how git works, and I think it course was useful for me. Before this course I didn't know how git works, but now, it's clear for me. 
  
 <details><summary>Screenshot</summary>
 <p>
@@ -61,7 +61,7 @@ I understood how git is working and how i can use it.
 
 #### Linux Survival
 
-Almost all of this commands i know and as for me there is nothing new.
+Almost all of these commands I know and as for me there is nothing new.
 
 <details><summary>Screenshot-1</summary>
 <p>
@@ -125,3 +125,48 @@ It was difficult, and I think there are things which I will never use.
 </p>
 </details>
 
+---
+
+## Front-End Basics
+
+---
+
+### Intro to HTML and CSS
+
+#### [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+<details><summary>Week 1</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/coursera-html-1.png)
+</p>
+</details>
+
+<details><summary>Week 2</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/coursera-html-2.png)
+</p>
+</details>
+
+Almost all I have already known, but something was new for me. For example, I didn't know about margins collapse and how can I wrap around the picture using float. This was interesting course.
+
+#### [Codecademy HTML](https://www.codecademy.com/learn/learn-html)
+
+<details><summary>HTML Course</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/codeacademy-html.png)
+</p>
+</details>
+
+#### [Codecademy CSS](https://www.codecademy.com/learn/learn-css)
+
+<details><summary>CSS Course</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/codeacademy-css.png)
+</p>
+</details>
+
+These courses have a lot of practice and I think it will be useful for me. Now I know how I can add a downloaded fonts. It was new for me.
