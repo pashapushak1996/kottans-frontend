@@ -17,11 +17,11 @@
     4. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [x] 
     5. [Responsive Web Design](#responsive-web-design)
-- [ ] 
+- [x] 
     6. [HTML & CSS Practice](#html-&-css)
-- [ ] 
+- [x] 
     7. [JavaScript Basics](#javascript-basics)
-- [ ] 
+- [x] 
     8. [Document Object Model](#document-object-model)
 
 #### Advanced Topics
@@ -179,3 +179,68 @@ In this game I have learned Grid, and I had a lot of fun.
 **Summary**
 
 In this block I have learned  Grid which I didn't know at all.And repeated the flexbox to himself. Now I know how Grid and Flexbox works and I will use this knowledge in the future.
+
+### HTML & CSS Practice
+This was interesting task.
+
+[Demo](https://pashapushak1996.github.io/html-css-popup-kottans/) |
+[Code base](https://github.com/pashapushak1996/html-css-popup-kottans)
+
+### JavaScript Basics
+
+**[JS Basics Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)**
+
+![Screenshot-image-link](task_js_basics/coursera-js-basics.png)
+
+It was interesting for me. Now I have learned how closures and "this" in objects works.
+
+**[freeCodeCamp](https://www.freecodecamp.org/learn)**
+
+<details><summary>Basic Javascript</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/basic-js.png)
+</p>
+</details>
+
+
+<details><summary>ES6 Challenges</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/basic-js.png)
+</p>
+</details>
+
+<details><summary>Basic Data Structures</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/basic-js.png)
+</p>
+</details>
+
+<details><summary>Basic Algorithm Scripting</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/basic-js.png)
+</p>
+</details>
+
+<details><summary>Functional Programming</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/basic-js.png)
+</p>
+</details>
+
+<details><summary>Algorithm Scripting Challenges</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/basic-js.png)
+</p>
+</details>
+
+I have learned a lot of thinks, and now I know how exactly JS work.
+The last tasks were the most challenging, but It was very interesting.
+
+
+
