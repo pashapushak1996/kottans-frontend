@@ -4,42 +4,27 @@
 
 #### General
 
-- [x] 
-    1. [Git Basics](#git-basics)
-- [x] 
-    2. [Linux CLI and Networking](#linux-cli-and-http)
-- [x] 
-    3. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+- [x]  [Git Basics](#git-basics)
+- [x]  [Linux CLI and Networking](#linux-cli-and-http)
+- [x]  [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 #### Front-End Basics
 
-- [x] 
-    4. [Intro to HTML & CSS](#intro-to-html-and-css)
-- [x] 
-    5. [Responsive Web Design](#responsive-web-design)
-- [x] 
-    6. [HTML & CSS Practice](#html-&-css)
-- [x] 
-    7. [JavaScript Basics](#javascript-basics)
-- [x] 
-    8. [Document Object Model](#document-object-model)
+- [x] [Intro to HTML & CSS](#intro-to-html-and-css)
+- [x] [Responsive Web Design](#responsive-web-design)
+- [x] [HTML & CSS Practice](#html--css-practice)
+- [x] [JavaScript Basics](#javascript-basics)
+- [x] [Document Object Model](#document-object-model)
 
 #### Advanced Topics
 
-- [ ] 
-    9. [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world)
-- [ ] 
-    10. [Object-oriented JS](#object-oriented-js)
-- [ ] 
-    11. [OOP exercise](#oop-exercise)
-- [ ] 
-    12. [Offline Web Applications](#offline-web-applications)
-- [ ] 
-    13. [Memory pair game](#memory-pair-game)
-- [ ] 
-    14. [Website Performance Optimization](#website-performance-optimization)
-- [ ] 
-    15. [Friends App](#friends-app)
+- [ ] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world)
+- [ ] [Object-oriented JS](#object-oriented-js)
+- [ ] [OOP exercise](#oop-exercise)
+- [ ] [Offline Web Applications](#offline-web-applications)
+- [ ] [Memory pair game](#memory-pair-game)
+- [ ] [Website Performance Optimization](#website-performance-optimization)
+- [ ] [Friends App](#friends-app)
 
 ---
 
@@ -112,7 +97,7 @@ Almost all of these commands I know and as for me there is nothing new.
 
 #### Articles about HTTP
 
-Two articles was very interesting for me and now it's clear, how occur interaction between client and server.
+Two articles was very interesting for me, and now it's clear, how occur interaction between client and server.
 
 ### Git Collaboration
 
@@ -178,9 +163,11 @@ In this game I have learned Grid, and I had a lot of fun.
 
 **Summary**
 
-In this block I have learned  Grid which I didn't know at all.And repeated the flexbox to himself. Now I know how Grid and Flexbox works and I will use this knowledge in the future.
+In this block I have learned Grid which I didn't know at all.And repeated the flexbox to himself. Now I know how Grid
+and Flexbox works and I will use this knowledge in the future.
 
 ### HTML & CSS Practice
+
 This was interesting task.
 
 [Demo](https://pashapushak1996.github.io/html-css-popup-kottans/) |
@@ -207,40 +194,70 @@ It was interesting for me. Now I have learned how closures and "this" in objects
 <details><summary>ES6 Challenges</summary>
 <p>
 
-![Screenshot-image-link](task_js_basics/basic-js.png)
+![Screenshot-image-link](task_js_basics/es-6.png)
 </p>
 </details>
 
 <details><summary>Basic Data Structures</summary>
 <p>
 
-![Screenshot-image-link](task_js_basics/basic-js.png)
+![Screenshot-image-link](task_js_basics/basic-data-structures.png)
 </p>
 </details>
 
 <details><summary>Basic Algorithm Scripting</summary>
 <p>
 
-![Screenshot-image-link](task_js_basics/basic-js.png)
+![Screenshot-image-link](task_js_basics/basic-algorithms.png)
 </p>
 </details>
 
 <details><summary>Functional Programming</summary>
 <p>
 
-![Screenshot-image-link](task_js_basics/basic-js.png)
+![Screenshot-image-link](task_js_basics/functional-programming.png)
 </p>
 </details>
 
 <details><summary>Algorithm Scripting Challenges</summary>
 <p>
 
-![Screenshot-image-link](task_js_basics/basic-js.png)
+![Screenshot-image-link](task_js_basics/intermediate-algorithm.png)
 </p>
 </details>
 
 I have learned a lot of thinks, and now I know how exactly JS work.
 The last tasks were the most challenging, but It was very interesting.
+
+### Document Object Model
+
+**[Coursera JS-DOM](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)**
+
+<details><summary>DOM</summary>
+<p>
+
+![Screenshot-image-link](task_js_dom/coursera-js-dom.png)
+</p>
+</details>
+
+There are things that I already knew, but some things were new to me. For example, DOMContentLoading. It was a bit boring.I guess I will rarely use this because we have frameworks:)
+
+**[freeCodeCamp](https://www.freecodecamp.org/learn)**
+
+<details><summary>Algorithm Scripting Challenges</summary>
+<p>
+
+![Screenshot-image-link](task_js_dom/intermediate-algorithm-2.png)
+</p>
+</details>
+
+It was difficult for me, but I get a lot of pleasure. Because I like to solve different problems. And these were interesting.
+
+**Practical part**
+
+[Demo](https://pashapushak1996.github.io/js-dom-kottans) /
+[Code](https://github.com/pashapushak1996/js-dom-kottans)
+
 
 
 
