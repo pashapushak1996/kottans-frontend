@@ -18,8 +18,8 @@
 
 #### Advanced Topics
 
-- [ ] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world)
-- [ ] [Object-oriented JS](#object-oriented-js)
+- [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world)
+- [x] [Object-oriented JS](#object-oriented-js)
 - [ ] [OOP exercise](#oop-exercise)
 - [ ] [Offline Web Applications](#offline-web-applications)
 - [ ] [Memory pair game](#memory-pair-game)
@@ -257,6 +257,27 @@ It was difficult for me, but I get a lot of pleasure. Because I like to solve di
 
 [Demo](https://pashapushak1996.github.io/js-dom-kottans) /
 [Code](https://github.com/pashapushak1996/js-dom-kottans)
+
+### Building a Tiny JS World (pre-OOP)
+
+[Demo](https://pashapushak1996.github.io/a-tiny-JS-world/) /
+[Code](https://github.com/pashapushak1996/frontend-2022-homeworks/tree/tiny-world)
+
+### Object-oriented JS
+**[Codewars](https://www.freecodecamp.org/learn)**
+
+[My profile](https://www.codewars.com/users/pavlopushak1996)
+
+There are a lot of tasks which I find good for me. I often solve different tasks on Codewars and I like it.
+
+![Screenshot-image-link](task_js_oop/codewars.png)
+
+**Frogger game**
+
+That was interesting and a bit hard for me. But I like difficult things.
+
+[Demo](https://pashapushak1996.github.io/frogger-game/) /
+[Code](https://github.com/pashapushak1996/frogger-game)
 
 
 
