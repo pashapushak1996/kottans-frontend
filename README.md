@@ -258,7 +258,7 @@ It was difficult for me, but I get a lot of pleasure. Because I like to solve di
 [Demo](https://pashapushak1996.github.io/js-dom-kottans) /
 [Code](https://github.com/pashapushak1996/js-dom-kottans)
 
-### Building a Tiny JS World (pre-OOP)
+### Building a Tiny JS World
 
 [Demo](https://pashapushak1996.github.io/a-tiny-JS-world/) /
 [Code](https://github.com/pashapushak1996/frontend-2022-homeworks/tree/tiny-world)
