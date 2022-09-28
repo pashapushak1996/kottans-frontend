@@ -20,7 +20,7 @@
 
 - [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world)
 - [x] [Object-oriented JS](#object-oriented-js)
-- [ ] [OOP exercise](#oop-exercise)
+- [x] [OOP exercise](#oop-exercise)
 - [ ] [Offline Web Applications](#offline-web-applications)
 - [ ] [Memory pair game](#memory-pair-game)
 - [ ] [Website Performance Optimization](#website-performance-optimization)
@@ -278,6 +278,12 @@ That was interesting and a bit hard for me. But I like difficult things.
 
 [Demo](https://pashapushak1996.github.io/frogger-game/) /
 [Code](https://github.com/pashapushak1996/frogger-game)
+
+### OOP Exercise
+
+[Demo](https://pashapushak1996.github.io/a-tiny-JS-world/) /
+[Code](https://github.com/pashapushak1996/frontend-2022-homeworks/tree/tiny-world)
+
 
 
 
